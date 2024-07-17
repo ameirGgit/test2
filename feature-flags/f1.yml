@@ -2,7 +2,7 @@ name: f1
 environments:
   Production:
     enabled: false
-    value: false
+    value: true
   test:
     enabled: false
     value: false

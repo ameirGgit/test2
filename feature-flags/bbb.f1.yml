@@ -3,3 +3,7 @@ environments:
   Production:
     enabled: false
     value: false
+  test:
+    enabled: false
+    value: true
+  

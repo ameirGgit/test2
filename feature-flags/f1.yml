@@ -5,4 +5,4 @@ environments:
     value: false
   test:
     enabled: false
-    value: true
+    value: false

@@ -1,4 +1,0 @@
-name: f2
-environments:
-  Production:
-    value: true

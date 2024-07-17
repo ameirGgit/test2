@@ -3,3 +3,6 @@ environments:
   Production:
     enabled: false
     value: false
+  qa:
+    enabled: false
+    value: false
